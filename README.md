@@ -2,4 +2,4 @@
 
 Working link you will find here => https://jellu28.github.io/Show-hide-Password/
 
-Icons used in project => www.ionic.io (don´t forget to insert usage scripts)
+Icons used in project => https://ionic.io/ionicons (don´t forget to insert usage scripts)
