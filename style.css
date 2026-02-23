@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: hsl(255, 100%, 80%);
+}
+.input-block {
+  padding: 20px 30px;
+  background-color: #fff;
+  width: 90%;
+  max-width: 500px;
+  margin: 300px auto;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+}
+.input-block input {
+  border: 0;
+  outline: none;
+  width: 100%;
+  font-size: 16px;
+  border-radius: 5px;
+}
+.show-icon {
+  display: none;
+  cursor: pointer;
+}
+.hide-icon {
+  margin-left: 20px;
+  font-size: 25px;
+  color: #000;
+  cursor: pointer;
+}
